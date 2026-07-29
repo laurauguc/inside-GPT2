@@ -1,4 +1,6 @@
-# Inside GPT-2: Following a Prompt Through the Transformer
+# GPT-2: From Parameters to Prediction
+
+*Following a single prompt through every layer of the Transformer.*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurauguc/inside-GPT2/blob/main/Interpreting%20GPT-2%20Parameters.ipynb)
 
