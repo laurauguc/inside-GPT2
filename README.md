@@ -5,6 +5,7 @@
 A complete walkthrough of GPT-2 inference that independently reconstructs the model's forward pass from its learned parameters, verifying every intermediate result against the official Hugging Face implementation.
 
 The entire walkthrough is available as an interactive Google Colab notebook, allowing readers to execute every computation themselves.
+
 ---
 
 ## Overview
