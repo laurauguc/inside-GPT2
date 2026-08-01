@@ -82,7 +82,7 @@ Following the same process for every layer builds a complete understanding of ho
 
 ## Why a single running example?
 
-Every chapter follows the same prompt:
+Every section follows the same prompt:
 
 > **"The cat is chasing a"**
 
